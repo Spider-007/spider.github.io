@@ -1,0 +1,1 @@
+<resources>    <string name="app_name">Android_ProjectView02</string>    <!--我的二维码-->    <string name="my_qr_code">我的二维码</string>    <string name="my_qr_pic_text">扫一扫上面的二维码图案</string></resources>

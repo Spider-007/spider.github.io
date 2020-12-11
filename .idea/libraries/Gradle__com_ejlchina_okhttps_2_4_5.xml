@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ejlchina:okhttps:2.4.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ejlchina/okhttps/2.4.5/e4182af89a95440936f4a11376232ab5fcc66a76/okhttps-2.4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ejlchina/okhttps/2.4.5/c12588cf0adbf7a2d4ba99c5c191667cb4dc5829/okhttps-2.4.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ejlchina/okhttps/2.4.5/ad7b318b287d4a91ff111b87e0133aeec2fadb59/okhttps-2.4.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
